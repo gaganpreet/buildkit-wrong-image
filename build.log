@@ -1,0 +1,165 @@
+Total reclaimed space: 0B
+The push refers to repository [docker.io/gaganpreetarora/buildkit-test]
+6f265423499d: Preparing
+5f70bf18a086: Preparing
+32b2d279b1f5: Preparing
+796a2b45d685: Preparing
+ac179126c808: Preparing
+5f70bf18a086: Preparing
+9bd0808c968c: Preparing
+9ba169a7f5c6: Preparing
+195d5e087746: Preparing
+9d89a89f95f7: Preparing
+b74e960321f5: Preparing
+a64fc8cc20a5: Preparing
+eac685a516c9: Preparing
+9018ab020550: Preparing
+2c065ea49213: Preparing
+956d28316107: Preparing
+86120ec29f78: Preparing
+5d34cecc2826: Preparing
+baf481fca4b7: Preparing
+3d3e92e98337: Preparing
+8967306e673e: Preparing
+9794a3b3ed45: Preparing
+5f77a51ade6a: Preparing
+e40d297cf5f8: Preparing
+9bd0808c968c: Waiting
+9d89a89f95f7: Waiting
+b74e960321f5: Waiting
+5d34cecc2826: Waiting
+9ba169a7f5c6: Waiting
+a64fc8cc20a5: Waiting
+baf481fca4b7: Waiting
+eac685a516c9: Waiting
+3d3e92e98337: Waiting
+9018ab020550: Waiting
+195d5e087746: Waiting
+8967306e673e: Waiting
+e40d297cf5f8: Waiting
+2c065ea49213: Waiting
+9794a3b3ed45: Waiting
+956d28316107: Waiting
+5f77a51ade6a: Waiting
+86120ec29f78: Waiting
+5f70bf18a086: Layer already exists
+9bd0808c968c: Layer already exists
+9ba169a7f5c6: Layer already exists
+195d5e087746: Layer already exists
+6f265423499d: Pushed
+9d89a89f95f7: Layer already exists
+796a2b45d685: Pushed
+b74e960321f5: Layer already exists
+a64fc8cc20a5: Layer already exists
+eac685a516c9: Layer already exists
+9018ab020550: Layer already exists
+2c065ea49213: Layer already exists
+956d28316107: Layer already exists
+86120ec29f78: Layer already exists
+5d34cecc2826: Layer already exists
+3d3e92e98337: Layer already exists
+baf481fca4b7: Layer already exists
+8967306e673e: Layer already exists
+9794a3b3ed45: Layer already exists
+5f77a51ade6a: Layer already exists
+e40d297cf5f8: Layer already exists
+ac179126c808: Pushed
+32b2d279b1f5: Pushed
+master: digest: sha256:81bc3f54c580e088b8ae0958e6be085ac87623eb27ee60715393588b352f5743 size: 5343
+Hello world
+Deleted Containers:
+01a5bc24c02a231dd5842df4aa132490686c59e5804d159f19746fdbdcfcd4e3
+
+Deleted Images:
+untagged: gaganpreetarora/buildkit-test:31a20f8ced5d7c8657c903a8d5040b7f7b029665
+untagged: gaganpreetarora/buildkit-test:master
+untagged: gaganpreetarora/buildkit-test@sha256:81bc3f54c580e088b8ae0958e6be085ac87623eb27ee60715393588b352f5743
+deleted: sha256:ce1cafe981f3a997bbc6aece5733db2ae1367575d20e26d3c488b89ce5f7ade8
+
+Deleted build cache objects:
+n4x1u8fu4wbcvqf077x5nk62h
+ytaa570h3ibskgct2womhvwlu
+rw9h697byg3wtpxxur8bhn62b
+krvin55b4chyeznpz67svrl3d
+aptqymxu1yjfj2e2hytvhkbov
+p4a77rrmgy16xur7e6s5qq3no
+xvrguzwdelb0soi2gvyidjf7k
+b3hpqgg2d28ftvul62o03pnwu
+tip9cqwmk27lqnxy3c5tbvth4
+sha256:04c415db3bb853af9f692d41b3946e65d1d928ad0600da1b3c762c061e89246d
+sha256:fbdfd63860e8b932729b36b44f3bd9c06e05341e6f82bb64932d4ac70a61c5f8
+sha256:f2afb75cd481f37b7474d53f4b352ac5b206f604fc4f4b4e212e68236c8e1130
+sha256:07988842a06d7ad80707ae19fa7f2028d6206978ce2a3ba7b2ebaab53296ff7c
+sha256:ec4bb7e6a2c43a07660c2de0d90d75998154cec76963388c500ce311c19d461a
+sha256:623e7abaa8123e156193aec68dde02098ac7d6dbd24044649c0749f283637c9c
+sha256:e6bbe56e09d033ad9c012a823f1ed0b7bf8bf1e30e1932b60e3d5c490c9c6967
+sha256:89f3b4309dcfa3b0a77d9a6f7e33f4c66472878cb62e3f7a2940d55db5496904
+sha256:936a5b5a5ae07f77c464f9d63c27b8a7f9137875ac3e50112373ecc62f4ae579
+sha256:5a4bd8689d63f4dc1c73043bb28b2f86feefa70f294771ad7676e1c3d3a2d773
+sha256:6b2bb61bca92731c9f55ee9c229bcac39e04bc1de3bd6aeab58507422660d9df
+sha256:09209f3b1d496eb85eea7e101a55c82df7842b0f4ce10884825af85b82e70426
+sha256:4c92b1543a105100693992ca47f61a0d9739eb24d57b659e43bbb1a95be5c361
+sha256:8a062f4eb11914dd5734e9d9c341011ee99b3f1fd6a8d7dbf4699989472a9bdd
+sha256:8036f0c3917cb40c5c4bb4dab7d10ea35663638c45a9f127eb33d34d830b5c08
+sha256:00ddd6457d485fbc11c78193ddd04ca52d51cebc3b593bcb6d2e414411039e3d
+sha256:6a64eac59d7ddb05685218d4432f2e770f7b09ef10e80dd377fe466a28e74b81
+sha256:e40d297cf5f89a9822af4c2f63caa2f2085d5aa188137506918e603774b083cb
+
+Total reclaimed space: 1.264GB
+The push refers to repository [docker.io/gaganpreetarora/buildkit-test]
+ac179126c808: Preparing
+5f70bf18a086: Preparing
+9bd0808c968c: Preparing
+9ba169a7f5c6: Preparing
+195d5e087746: Preparing
+9d89a89f95f7: Preparing
+b74e960321f5: Preparing
+a64fc8cc20a5: Preparing
+eac685a516c9: Preparing
+9018ab020550: Preparing
+2c065ea49213: Preparing
+956d28316107: Preparing
+86120ec29f78: Preparing
+5d34cecc2826: Preparing
+baf481fca4b7: Preparing
+3d3e92e98337: Preparing
+8967306e673e: Preparing
+9794a3b3ed45: Preparing
+5f77a51ade6a: Preparing
+e40d297cf5f8: Preparing
+956d28316107: Waiting
+86120ec29f78: Waiting
+5d34cecc2826: Waiting
+baf481fca4b7: Waiting
+3d3e92e98337: Waiting
+a64fc8cc20a5: Waiting
+eac685a516c9: Waiting
+9018ab020550: Waiting
+2c065ea49213: Waiting
+9d89a89f95f7: Waiting
+8967306e673e: Waiting
+b74e960321f5: Waiting
+9794a3b3ed45: Waiting
+5f77a51ade6a: Waiting
+e40d297cf5f8: Waiting
+5f70bf18a086: Layer already exists
+ac179126c808: Layer already exists
+9bd0808c968c: Layer already exists
+195d5e087746: Layer already exists
+9ba169a7f5c6: Layer already exists
+9d89a89f95f7: Layer already exists
+9018ab020550: Layer already exists
+eac685a516c9: Layer already exists
+b74e960321f5: Layer already exists
+a64fc8cc20a5: Layer already exists
+956d28316107: Layer already exists
+baf481fca4b7: Layer already exists
+5d34cecc2826: Layer already exists
+86120ec29f78: Layer already exists
+2c065ea49213: Layer already exists
+e40d297cf5f8: Layer already exists
+8967306e673e: Layer already exists
+3d3e92e98337: Layer already exists
+9794a3b3ed45: Layer already exists
+5f77a51ade6a: Layer already exists
+31a20f8ced5d7c8657c903a8d5040b7f7b029665-missing-files: digest: sha256:a70fa5f586478da24f41d6c2543d2b102fccdadbb674548366fca7aa42208317 size: 4507
